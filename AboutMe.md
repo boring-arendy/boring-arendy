@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @boring-arendy
+- 👀 I’m interested in anything.
+- 🌱 I’m currently learning Python. Perhaps I will try C ++ or Java, if I understand that I have begun to understand Python well.
+- 📫 How to reach me: (*add it later*)
